@@ -2,8 +2,7 @@
 
 ![Capa](https://user-images.githubusercontent.com/56945282/88229792-46391580-cc69-11ea-8d87-04cd16faac70.png)
 
-
-Desafio do GoStack React Native, nesse desafio foi colocado em prova exercicios passado durante o curso e tecnicas, como o uso de Context Api, Typescript, rotas e AsyncStorage desenvolvendo a aplicação GoMarketPlace.
+Desafio do GoStack React Native, nesse desafio foi colocado em prova tecnicas e ensinamentos passado durante o curso, como o uso de Context Api, Typescript, rotas e AsyncStorage, desenvolvendo a aplicação GoMarketPlace.
 
 ## Telas
 > ### Listagem
