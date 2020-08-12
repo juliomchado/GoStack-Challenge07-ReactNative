@@ -1,4 +1,4 @@
-# GoStack-Challenge07-ReactNative
+# GoStack-Challenge07-GoMarketplace
 
 ![Capa](https://user-images.githubusercontent.com/56945282/88229792-46391580-cc69-11ea-8d87-04cd16faac70.png)
 
